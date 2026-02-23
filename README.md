@@ -1,4 +1,4 @@
-# Splash-Park-Website
+# Splash Park
 A Website for an imaginary Water Park with an unoriginal name
 
 # Entry
