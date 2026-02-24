@@ -29,3 +29,4 @@ Goggles $20
 Compromise Effect - 3 entry prices, 3 drink prices  
 Identity Signaling - VIP entry option  
 Complimentary Good - Swimwear and other similar products sold at a water park  
+Scarcity - Priority line access for VIP members, limited locker availability
