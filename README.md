@@ -23,7 +23,13 @@ Branded Sandals $20
 Goggles $20  
 
 
-![alt text](https://github.com/patnate/Splash-Park/blob/main/Map.png?raw=true)
+![alt text](https://github.com/patnate/Splash-Park/blob/main/Map.png?raw=true)  
+
+# Marketing Strategies
+Compromise Effect - 3 entry prices, 3 drink prices  
+Identity Signaling - VIP entry option  
+Complimentary Good - Swimwear and other similar products sold at a water park  
+
 <pre>
 
 
